@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title> Flexbox Example </title>
+    </head>
+        <style>
+            .container {
+                display: flex;
+                background-color: cyan;
+
+            }
+            .container > div {
+                background-color: violet;
+                margin: 5px;
+                font-size: 20px;
+                padding: 10px;
+
+            }
+            </style>
+<body>
+    <div class="container">
+        <div> product 1 </div>
+        <div> product 2 </div>
+        <div> product 4 </div>
+        <div> product 5 </div>
+        <div> product 6 </div>
+    </div>
+</body>
+</html>

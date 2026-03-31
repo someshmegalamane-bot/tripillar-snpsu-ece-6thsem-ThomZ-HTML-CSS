@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> MY WEBPAGE </title>
+    </head>
+    <body> <big> <i> <u> MarkShit </u></i></big>
+        <table border="5">
+            <tr>
+                <th> Name </th>
+                <th> Marks </th>
+            </tr>
+            <tr>
+                <td> ThomZ </d>
+                <td> 90 </td>
+            </tr>
+            <tr>
+                 <td> Rithesh </td>
+                 <td> 420 </td>
+            </tr>
+        <a href="https://live.staticflickr.com/6068/6065510171_bb00e7222b_z.jpg"> Click Here 100% result </a>
+
+    </body>    
+</html>
