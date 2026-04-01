@@ -5,12 +5,13 @@
         <style>
             .container {
                 display: flex;
-                background-color: cyan;
+                background-color: rgb(204, 86, 13);
+                grid-template-columns: auto auto auto   ;
 
             }
             .container > div {
-                background-color: violet;
-                margin: 5px;
+                background-color: rgb(241, 196, 17);
+                margin: 20px;
                 font-size: 20px;
                 padding: 10px;
 

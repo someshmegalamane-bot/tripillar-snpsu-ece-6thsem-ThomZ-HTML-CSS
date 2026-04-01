@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title> Responsive Design </title>
+        <style>
+            body {
+                background-color: rgb(255, 255, 255);
+            }
+            @media (max-width: 600px) {
+                body {
+                    background-color: aquamarine;
+                }
+            }
+        </style>
+    </head>
+ <body>
+    <h1> Responsive Page </h1>
+    <p> This is a responsive design example. Resize the browser window to see the effect. </p>
+ </body>
+</html>

@@ -1,0 +1,55 @@
+<DOCTYPE html>
+    <html>
+        <title> Home </title> 
+        <link rel="stylesheet" href="style.css">
+        <head>
+            <body>
+                <header>
+                    <h1> SCS GENTS PG </h1>
+                    <p> Welcome to our website! </p>
+                </header>
+
+                <nav>
+            
+                    <a href="index-html"> Home </a> 
+                    <a href="about-html"> About </a>
+                    <a href="services-html"> Services </a>
+                    <a href="contact-html"> Contact </a>
+                </nav>
+
+                <section class="container">
+                    <div class="card">
+                        <h2> Types of rooms </h2>
+                        <p> We offer a variety of room options to suit your needs. </p>
+                    </div>
+                    <div>
+                        <h2> Contact Us </h2>
+                        <p> For enquiries and bookings, please contact us at: </p>
+                        <ul>
+                            <li> Phone: +91 7204817738 </li>
+                            <li> Email: someshmegalamane@gmil.com.com </li>
+                        </ul>
+                    </div>
+                    <div> 
+                        <h2> Amenities </h2>
+                        <p> Our PG offers a range of amenities to ensure a comfortable stay. </p>
+                        <ul>
+                            <li> 24/7 Security </li>
+                            <li> Wi-Fi Connectivity </li>
+                            <li> Laundry Services </li>
+                            <li> Common Area for Socializing </li>
+                        </ul>   
+                    </div>
+                    
+
+                </section>
+                
+                </form>
+
+                </section>
+
+                <footer>
+                    <p> &copy; 2012 SCS GENTS PG. All rights reserved. </p>
+                    
+
+                </footer>

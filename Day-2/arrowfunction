@@ -1,0 +1,10 @@
+<html>
+    <body>
+        <script>
+            let a = (name) => { 
+                return "Hello" + name;
+            };
+            console.log(a("ThomZ"));
+        </script>   
+    </body>
+</html>

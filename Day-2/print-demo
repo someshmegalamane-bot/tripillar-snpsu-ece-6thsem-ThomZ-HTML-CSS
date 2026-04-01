@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <script>
+            console.log ("Hello World");
+            console.log ("Welcome to JavaScript");
+
+        </script>
+    </body> 
+</html>

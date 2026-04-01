@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title> My WebPage </title>
+        <style>
+            .container{
+                display: grid;
+                grid-template-columns: auto auto auto;
+                background-color: cyan;
+                padding: 20px;
+            }
+            .container  div {
+                background-color: violet;
+                text-align: center;
+                padding: 20px;
+                font-size: 30px;
+                border: 1px solid black;
+            }
+
+            </style>
+    </head>
+<body>
+    <div class="container">
+        <div> product 1 </div>
+        <div> product 2 </div>
+        <div> product 3 </div>
+        <div> product 4</div>
+        <div> product 5 </div>
+        <div> product 6 </div>
+      
+    </div>
+</body>
+</html>
